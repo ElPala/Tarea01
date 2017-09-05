@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Sesión 5</string>
+    <string name="nombre">Ingrese su nombre</string>
+    <string name="telefono">Ingrese su teléfono</string>
+    <string name="escolaridad">Escolaridad</string>
+    <string name="bachillerato">Bachillerato</string>
+    <string name="genero">Género</string>
+    <string name="femenino">Femenino</string>
+    <string name="masculino">Masculino</string>
+    <string name="libro">Libro Favorito</string>
+    <string name="deporte">Practica Deporte</string>
+    <string name="limpiar">LIMPIAR</string>
+    <string name="activity_main_menu_save">Guardar</string>
+
+    <string-array name="array_nivel">
+        <item>Bachillerato</item>
+        <item>Técnico</item>
+        <item>Licenciatura</item>
+        <item>Maestría</item>
+        <item>Doctorado</item>
+    </string-array>
+
+    <string-array name="array_ibros">
+        <item>Los Juegos Del Hambre</item>
+        <item>Maze Runner</item>
+        <item>Harry Potter</item>
+        <item>El Hobbit</item>
+        <item>El Resplandor</item>
+    </string-array>
+
+</resources>
